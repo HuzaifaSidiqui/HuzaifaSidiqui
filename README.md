@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+21174
+Fork on GitHub
+6599
+
+back to edit
+
+copied
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Huzaifa Siddiqui</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -20,6 +36,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/huzaifasiddique5000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/huzaifasiddique5000/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/huzaifa.siddique.1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/huzaifa.siddique.1612" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/uzaifhunts5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/uzaifhunts5/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,3 +48,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzaifasidiqui&show_icons=true&locale=en" alt="huzaifasidiqui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifasidiqui&" alt="huzaifasidiqui" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
